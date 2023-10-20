@@ -3,7 +3,7 @@
 Clone the repository and open it in the command-line interface:
 
 ```
-git clone https://github.com/yandex-praktikum/anfisa2sprint.git
+git clone https://github.com/tripleten-com/Iris4Friends
 ```
 
 ```
